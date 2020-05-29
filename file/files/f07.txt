@@ -1,0 +1,1 @@
+a:3:{i:0;a:4:{s:5:"fname";s:6:"Rabiul";s:5:"lname";s:5:"Hasan";s:3:"age";i:23;s:10:"profession";s:17:"Jr. Web Developer";}i:1;a:4:{s:5:"fname";s:7:"Motaleb";s:5:"lname";s:7:"Hossain";s:3:"age";i:25;s:10:"profession";s:11:"Shop Keeper";}i:2;a:4:{s:5:"fname";s:5:"Shuvo";s:5:"lname";s:5:"Ahmed";s:3:"age";i:22;s:10:"profession";s:7:"Teacher";}}

@@ -1,0 +1,2 @@
+admin,6d0ebbbdce32474db8141d23d2c01bd9628d6e5f,admin
+editor,36c53fa43f47f3fd67cb2fc38031827244d18a1f,editor
